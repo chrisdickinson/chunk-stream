@@ -1,6 +1,6 @@
 {
   "name": "chunk-stream",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "break up chunks into smaller chunks of size N on the way through",
   "main": "index.js",
   "scripts": {
