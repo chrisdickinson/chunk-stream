@@ -1,0 +1,26 @@
+{
+  "name": "chunk-stream",
+  "version": "0.0.0",
+  "description": "break up chunks into smaller chunks of size N on the way through",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/chrisdickinson/chunk-stream.git"
+  },
+  "keywords": [
+    "chunk",
+    "stream",
+    "through"
+  ],
+  "author": "Chris Dickinson <chris@neversaw.us>",
+  "license": "MIT",
+  "dependencies": {
+    "through": "~2.2.0"
+  },
+  "devDependencies": {
+    "tape": "~0.2.2"
+  }
+}
